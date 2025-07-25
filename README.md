@@ -1,16 +1,27 @@
-## Hi there 👋
+<div>
 
-<!--
-**iamnycx/iamnycx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+```javascript
+// @me 👨‍💻
 
-Here are some ideas to get you started:
+const stack = () => ({
+  langs: ["TypeScript", "JavaScript", "Solidity"],
+  web:   ["React", "Next.js", "tRPC", "Tailwind"],
+  infra: ["Node.js", "PostgreSQL", "Docker", "Vercel"],
+  tools: ["GitHub", "Figma", "Storybook", "Sentry"]
+});
+```
+</div>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div align="left" width="200">
+  <a target="_blank" href="https://www.x.com/nycxtw"><strong>X</strong></a>
+  ‎ ‎ ‎ ‎ 
+  <a target="_blank" href="mailto:25nikmehta@gmail.com"><strong>Email</strong></a>
+  ‎ ‎ ‎ ‎ 
+  <a target="_blank" href="https://www.linkedin.com/in/nycx"><strong>Linkedin</strong></a>
+  ‎ ‎ ‎ ‎ 
+  <a target="_blank" href="https://eyronick.is-a.dev/"><strong>Website</strong></a>
+</div>
+
+<div align="right" width="200">
+    <i>Updated: July 2025</i>
+</div>
