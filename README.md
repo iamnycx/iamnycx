@@ -19,7 +19,7 @@ const stack = () => ({
   ‎ ‎ ‎ ‎ 
   <a target="_blank" href="https://www.linkedin.com/in/nycx"><strong>Linkedin</strong></a>
   ‎ ‎ ‎ ‎ 
-  <a target="_blank" href="https://eyronick.is-a.dev/"><strong>Website</strong></a>
+  <a target="_blank" href="https://nycx.is-a.dev/"><strong>Website</strong></a>
 </div>
 
 <div align="right" width="200">
